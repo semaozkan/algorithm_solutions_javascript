@@ -3,3 +3,4 @@
 | 01  |    [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)     |       [compareTriplets.js](./algorithm_solitions/01-compareTriplets.js)      |
 | 02  |    [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true)                 |       [aVeryBigSum.js](./algorithm_solitions/02-aVeryBigSum.js)              |
 | 03  |    [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true)       |       [diagonalDifference.js](./algorithm_solitions/03-diagonalDifference.js)|
+| 04  |    [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true)                         |       [plusMinus.js](./algorithm_solitions/04-plusMinus.js)                  |
