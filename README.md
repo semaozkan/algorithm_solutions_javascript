@@ -7,3 +7,4 @@
 | 05  |    [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true)                         |       [plusMinus.js](./algorithm_solitions/05-plusMinus.js)                     |
 | 06  |    [Staircase](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true)                           |       [staircase.js](./algorithm_solitions/06-staircase.js)                     |
 | 07  |    [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)   |       [birthdayCakeCandles.js](./algorithm_solitions/07-birthdayCakeCandles.js) |
+| 08  |    [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)               |       [timeConversion.js](./algorithm_solitions/08-timeConversion.js)           |
