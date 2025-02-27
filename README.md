@@ -10,3 +10,4 @@
 | 08  |       [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)       |      [timeConversion.js](./algorithm_solitions/08-timeConversion.js)      |
 | 09  |          [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)           |     [gradingStudents.js](./algorithm_solitions/09-gradingStudents.js)     |
 | 10  |      [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true)      |      [appleAndOrange.js](./algorithm_solitions/10-appleAndOrange.js)      |
+| 11  |         [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true)          |     [appleAndOrange.js](./algorithm_solitions/11-numberLineJumps.js)      |
