@@ -13,3 +13,4 @@
 | 11  |              [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true)              |     [numberLineJumps.js](./algorithm_solitions/11-numberLineJumps.js)     |
 | 12  | [Breaking The Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true) |  [breakingTheRecords.js](./algorithm_solitions/12-breakingTheRecords.js)  |
 | 13  |          [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true)          |    [subarrayDivision.js](./algorithm_solitions/13-subarrayDivision.js)    |
+| 14  |       [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true)        |   [divisibleSumPairs.js](./algorithm_solitions/14-divisibleSumPairs.js)   |
