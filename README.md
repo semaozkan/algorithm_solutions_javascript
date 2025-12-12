@@ -19,3 +19,4 @@
 | 17  |     [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem?isFullScreen=true)      |  [dayOfTheProgrammer.js](./algorithm_solitions/17-dayOfTheProgrammer.js)  |
 | 18  |              [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true)               |        [billDivision.js](./algorithm_solitions/18-billDivision.js)        |
 | 19  |              [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true)            |        [SalesByMatch.js](./algorithm_solitions/19-salesByMatch.js)        |
+| 20  |              [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem?isFullScreen=true)               |        [drawingBook.js](./algorithm_solitions/20-drawingBook.js)          |
