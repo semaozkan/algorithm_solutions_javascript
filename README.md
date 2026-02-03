@@ -20,3 +20,4 @@
 | 18  |              [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true)               |        [billDivision.js](./algorithm_solitions/18-billDivision.js)        |
 | 19  |              [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true)            |        [SalesByMatch.js](./algorithm_solitions/19-salesByMatch.js)        |
 | 20  |              [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem?isFullScreen=true)               |        [drawingBook.js](./algorithm_solitions/20-drawingBook.js)          |
+| 21  |              [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true)       |        [countingValleys.js](./algorithm_solitions/21-countingValleys.js)  |
