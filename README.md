@@ -22,3 +22,4 @@
 | 20  |              [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem?isFullScreen=true)               |        [drawingBook.js](./algorithm_solitions/20-drawingBook.js)          |
 | 21  |              [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true)       |        [countingValleys.js](./algorithm_solitions/21-countingValleys.js)  |
 | 22  |              [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true)       |        [electronicsShop.js](./algorithm_solitions/22-electronicsShop.js)  |
+| 23  |              [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)       |        [catsAndAMouse.js](./algorithm_solitions/23-catsAndAMouse.js)      |
