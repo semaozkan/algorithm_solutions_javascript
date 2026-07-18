@@ -25,3 +25,4 @@
 | 23  |          [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)           |          [catsAndAMouse.js](./algorithm_solitions/23-catsAndAMouse.js)          |
 | 24  |           [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true)            |         [pickingNumbers.js](./algorithm_solitions/24-pickingNumbers.js)         |
 | 25  |  [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true)   | [climbingTheLeaderboard.js](./algorithm_solitions/25-climbingTheLeaderboard.js) |
+| 26  |           [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)            |           [theHurdleRace.js](./algorithm_solitions/26-theHurdleRace)            |
