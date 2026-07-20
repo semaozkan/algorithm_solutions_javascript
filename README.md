@@ -27,3 +27,4 @@
 | 25  |  [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true)   | [climbingTheLeaderboard.js](./algorithm_solitions/25-climbingTheLeaderboard.js) |
 | 26  |           [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)            |           [theHurdleRace.js](./algorithm_solitions/26-theHurdleRace)            |
 | 26  |       [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true)        |      [designerPDFViewer.js](./algorithm_solitions/27-designerPDFViewer.js)      |
+| 26  |              [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem?isFullScreen=true)               |            [utopianTree.js](./algorithm_solitions/28-utopianTree.js)            |
