@@ -28,3 +28,4 @@
 | 26  |           [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)            |           [theHurdleRace.js](./algorithm_solitions/26-theHurdleRace)            |
 | 27  |       [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true)        |      [designerPDFViewer.js](./algorithm_solitions/27-designerPDFViewer.js)      |
 | 28  |              [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem?isFullScreen=true)               |            [utopianTree.js](./algorithm_solitions/28-utopianTree.js)            |
+| 29  |           [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true)            |         [angryProfessor.js](./algorithm_solitions/29-angryProfessor.js)         |
