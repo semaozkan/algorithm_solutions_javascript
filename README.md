@@ -32,3 +32,4 @@
 | 30  | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true) | [beautifulDaysAtTheMovies.js](./algorithm_solitions/30-beautifulDaysAtTheMovies.js) |
 | 31  |           [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true)           |         [viralAdvertising.js](./algorithm_solitions/31-viralAdvertising.js)         |
 | 32  |           [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem?isFullScreen=true)            |          [saveThePrisoner.js](./algorithm_solitions/32-saveThePrisoner.js)          |
+| 33  |      [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem?isFullScreen=true)      |    [circularArrayRotation.js](./algorithm_solitions/33-circularArrayRotation.js)    |
