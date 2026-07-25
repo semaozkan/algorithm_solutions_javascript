@@ -34,3 +34,4 @@
 | 32  |           [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem?isFullScreen=true)            |          [saveThePrisoner.js](./algorithm_solitions/32-saveThePrisoner.js)          |
 | 33  |      [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem?isFullScreen=true)      |    [circularArrayRotation.js](./algorithm_solitions/33-circularArrayRotation.js)    |
 | 34  |          [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem?isFullScreen=true)           |         [sequenceEquation.js](./algorithm_solitions/34-sequenceEquation.js)         |
+| 35  |   [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem?isFullScreen=true)   |       [jumpingOnTheClouds.js](./algorithm_solitions/35-jumpingOnTheClouds.js)       |
