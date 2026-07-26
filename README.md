@@ -36,3 +36,4 @@
 | 34  |          [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem?isFullScreen=true)           |         [sequenceEquation.js](./algorithm_solitions/34-sequenceEquation.js)         |
 | 35  |   [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem?isFullScreen=true)   |       [jumpingOnTheClouds.js](./algorithm_solitions/35-jumpingOnTheClouds.js)       |
 | 36  |                  [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true)                  |               [findDigits.js](./algorithm_solitions/36-findDigits.js)               |
+| 37  |        [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true)        |      [extraLongFactorials.js](./algorithm_solitions/37-extraLongFactorials.js)      |
