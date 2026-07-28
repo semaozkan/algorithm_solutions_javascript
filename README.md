@@ -39,3 +39,4 @@
 | 37  |        [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true)        |      [extraLongFactorials.js](./algorithm_solitions/37-extraLongFactorials.js)      |
 | 38  |            [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem?isFullScreen=true)            |          [appendAndDelete.js](./algorithm_solitions/38-appendAndDelete.js)          |
 | 39  |         [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem?isFullScreen=true)         |       [sherlockAndSquares.js](./algorithm_solitions/39-sherlockAndSquares.js)       |
+| 40  |                 [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem?isFullScreen=true)                 |              [libraryFine.js](./algorithm_solitions/40-libraryFine.js)              |
