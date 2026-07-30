@@ -41,3 +41,4 @@
 | 39  |         [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem?isFullScreen=true)         |       [sherlockAndSquares.js](./algorithm_solitions/39-sherlockAndSquares.js)       |
 | 40  |                 [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem?isFullScreen=true)                 |              [libraryFine.js](./algorithm_solitions/40-libraryFine.js)              |
 | 41  |               [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem?isFullScreen=true)               |             [cutTheSticks.js](./algorithm_solitions/41-cutTheSticks.js)             |
+| 42  |         [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem?isFullScreen=true)         |      [non-DivisibleSubset.js](./algorithm_solitions/42-non-DivisibleSubset.js)      |
