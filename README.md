@@ -42,3 +42,4 @@
 | 40  |                 [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem?isFullScreen=true)                 |              [libraryFine.js](./algorithm_solitions/40-libraryFine.js)              |
 | 41  |               [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem?isFullScreen=true)               |             [cutTheSticks.js](./algorithm_solitions/41-cutTheSticks.js)             |
 | 42  |         [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem?isFullScreen=true)         |      [non-DivisibleSubset.js](./algorithm_solitions/42-non-DivisibleSubset.js)      |
+| 43  |              [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true)              |           [repeatedString.js](./algorithm_solitions/43-repeatedString.js)           |
