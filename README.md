@@ -1,5 +1,6 @@
 |  #  |                                                          Challenge                                                           |                                      Solution                                       |
 | :-: | :--------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
+| 45  |             [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem?isFullScreen=true)             |          [queen'sAttackII.js](./algorithm_solitions/45-queen'sAttackII.js)          |
 | 44  |          [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem?isFullScreen=true)           |         [equalizeTheArray.js](./algorithm_solitions/44-equalizeTheArray.js)         |
 | 43  |              [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true)              |           [repeatedString.js](./algorithm_solitions/43-repeatedString.js)           |
 | 42  |         [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem?isFullScreen=true)         |      [non-DivisibleSubset.js](./algorithm_solitions/42-non-DivisibleSubset.js)      |
