@@ -1,5 +1,6 @@
 |  #  |                                                          Challenge                                                           |                                      Solution                                       |
 | :-: | :--------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
+| 47  |               [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday/problem?isFullScreen=true)                |             [taumAndB'day.js](./algorithm_solitions/47-taumAndB'day.js)             |
 | 46  |                [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team/problem?isFullScreen=true)                |            [ACM_ICPC_Team.js](./algorithm_solitions/46-ACM_ICPC_Team.JS)            |
 | 45  |             [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem?isFullScreen=true)             |          [queen'sAttackII.js](./algorithm_solitions/45-queen'sAttackII.js)          |
 | 44  |          [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem?isFullScreen=true)           |         [equalizeTheArray.js](./algorithm_solitions/44-equalizeTheArray.js)         |
